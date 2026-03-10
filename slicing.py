@@ -13,3 +13,13 @@ print(arr[4:])
 #If we don't pass step its considered 1
 
 print(arr[1:5:])
+
+#output even numbers
+print(arr[1:8:2])
+
+#To determine size of array
+print(arr.size)
+
+#To determine number of dimensions
+print(arr.ndim)
+
