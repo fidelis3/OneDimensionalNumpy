@@ -1,7 +1,7 @@
-import numpy as np 
+import numpy as np  # type: ignore
 a = np.array([1, 6, 1, 0])
 
-#To get avarage of array
+#To get average of array
 mean=a.mean()
 print(mean)
 
